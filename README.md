@@ -1,2 +1,2 @@
-# Library.AutoHotkey
-Library for AutoHotkey
+# Library.AutoHotkey v1
+Library for AutoHotkey v1
